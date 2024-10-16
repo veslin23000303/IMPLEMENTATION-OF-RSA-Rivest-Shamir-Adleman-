@@ -35,7 +35,7 @@ int gcd(int a, int h) {
 }
 
 int main() {
-    printf("SUSHIENDAR M-212223004217\n");
+    printf("VESLIN ANISH A-212223240175\n");
     // Two prime numbers
     int p = 4;
     int q = 8;
@@ -76,7 +76,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/dfc6b2c4-e744-433e-bfa1-2a1b15f66f3a)
+
+![Screenshot 2024-10-16 105816](https://github.com/user-attachments/assets/3f208a18-b0e7-4d35-b6a8-1e4c0bd42e6e)
 
 ## RESULT:
 Thus the C program to implement RSA encryption technique had been implemented successfully
